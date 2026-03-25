@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Cosmina a biostatistics professional with a strong background in clinical trials, statistical programming, and data quality. With 16+ years in data operations and 5+ years in biostatistics, I’ve contributed to global studies across multiple therapeutic areas. Currently learning Python and machine learning, and working on data science projects to grow my analytical toolkit.
+I’m Cosmina, a biostatistics professional with experience in global clinical trials, statistical programming, and data quality. After 16+ years in data operations and 5+ years in biostatistics, I’m now exploring Python, machine learning, and data science projects to expand my skill set and bridge into advanced analytics.
 
 Facts: 
 * I’ve worked on everything from EDC databases to statistical analysis plans.
